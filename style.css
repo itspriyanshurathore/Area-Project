@@ -629,48 +629,7 @@
 
 
 
-   /* Responsive */
-   @media (max-width: 768px) {
-     .testimonial-section {
-       flex-direction: column;
-     }
-
-     .testimonial-image img {
-       border-radius: 0;
-     }
-
-     .testimonial-content {
-       padding: 30px 20px;
-     }
-
-     .testimonial-content blockquote {
-       font-size: 24px;
-     }
-   }
-
-
-
-
-
-
-
-
-
-
-   /* Responsive behavior */
-   @media (max-width: 768px) {
-
-     .table-header,
-     .table-row {
-       flex-direction: column;
-     }
-
-     .table-header .col,
-     .table-row .col {
-       text-align: left;
-       border-bottom: 1px solid #eee;
-     }
-   }
+   
 
 
 
